@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "974323873416",
+    "project_id": "ipdproject-6784f",
+    "storage_bucket": "ipdproject-6784f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974323873416:android:f3a9c1bd192314ad00913d",
+        "android_client_info": {
+          "package_name": "com.example.vr_therapy_ipd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGhFiWyAmqqEUijAeqnQlFrlmx0G05L7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
